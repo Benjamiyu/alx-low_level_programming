@@ -1,7 +1,12 @@
 #include <stdio.h>
-/* Using the function puts to print out strings*/
+
+/**
+ * main - Using puts function
+ *
+ * Description: This is c program that uses puts function to print out a string.
+ * Return: Success 0
+ */
 int main(void)
-/*You are not allowed to use printf function*/
 {
 char Mystr[] = "\"Programming is like building a multilingual puzzle";
 puts(Mystr);
