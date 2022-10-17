@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * Main: Using printf function to print string.
- *
+ * Description: main - Using printf function to print string.
  * Return: Always 0 success. 
  */
 int main(void)
