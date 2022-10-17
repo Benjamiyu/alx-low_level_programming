@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * Description: main - Using printf function to print string.
  * Return: Always 0 success. 
